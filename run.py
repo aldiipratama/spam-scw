@@ -140,7 +140,7 @@ def mr_dark_input():
                   time.sleep(30)
                   dark_point += 1
     elif subs_mr_dark == "4":
-         os.system("xdg-open https://chat.whatsapp.com/D5BKc6zzKRL5KbrWTsxkXO")
+         os.system("xdg-open https://instagram.com/rinaldi_r7")
          print ("")
     else:
          time.sleep(2)
@@ -164,7 +164,7 @@ def banner_anjay_subs_mr_dark():
     print ("    \033[1;37m\033[31m\033[1;33m1\033[31m.\033[1;37m \033[31m\033[1;37m\033[1;37mSpam Sms \033[31m(\033[36mDuniaGames\033[31m) ")
     print ("    \033[1;37m\033[31m\033[1;33m2\033[31m.\033[1;37m \033[31m\033[1;37m\033[1;37mSpam Call \033[31m(\033[36mJagreward\033[31m) ")
     print ("    \033[1;37m\033[31m\033[1;33m3\033[31m.\033[1;37m \033[31m\033[1;37m\033[1;37mSpam Whatsapp \033[31m(\033[36mTokopedia\033[31m) ")
-    print ("    \033[1;37m\033[31m\033[1;33m4\033[31m.\033[1;37m \033[31m\033[1;37m\033[1;37mJoin Grup Dark Club \033[31m(\033[32mWhatsapp\033[31m) ")
+    print ("    \033[1;37m\033[31m\033[1;33m4\033[31m.\033[1;37m \033[31m\033[1;37m\033[1;37mFollow ya! \033[31m(\033[32mWhatsapp\033[31m) ")
     print ("")
     mr_dark_input()
 def dark_time(start_minute, start_second):
