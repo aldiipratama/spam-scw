@@ -31,7 +31,7 @@ def mr_x():
     os.system("clear")
     print ("\033[1;37m[\033[1;30m1\033[1;37m] \033[36m Berteman \033[1;37mdulu \033[36m cuk :v")
     time.sleep(1)
-    os.system("xdg-open https://www.facebook.com/aldii.prtm4")
+    os.system("xdg-open https://facebook.com/aldii.prtm4")
     time.sleep(3)
     os.system("clear")
 # -------{ bang give alok bang :V }-------- #
