@@ -25,7 +25,7 @@ def mr_dark_jag():
        sukses("2","call","jagreward")
        time.sleep(30)
   else:
-       print (f'   \033[1;37m[\033[31m\033[1;37m] \033[1;37mTidak dapat terkirim di karenakan sudah limit! \033[31m ')
+       print ('   \033[1;37m[\033[31m\033[1;37m] \033[1;37mTidak dapat terkirim di karenakan sudah limit! \033[31m ')
        time.sleep(30)
 def mr_x():
     time.sleep(1)
