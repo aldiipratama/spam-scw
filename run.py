@@ -28,15 +28,10 @@ def mr_dark_jag():
        print ('   \033[1;37m[\033[31m\033[1;37m] \033[1;37mTidak dapat terkirim di karenakan sudah limit! \033[31m ')
        time.sleep(30)
 def mr_x():
-    time.sleep(1)
     os.system("clear")
     print ("\033[1;37m[\033[1;30m1\033[1;37m] \033[36m Berteman \033[1;37mdulu \033[36m cuk :v")
     time.sleep(1)
     os.system("xdg-open https://www.facebook.com/aldii.prtm4")
-    time.sleep(3)
-    print ("\033[1;37m[\033[1;30m2\033[1;37m] \033[36m Follow \033[1;37mdulu \033[36m cuk :v")
-    time.sleep(1)
-    os.system("xdg-open https://instagram.com/rinaldi_r7")
     time.sleep(3)
     os.system("clear")
 # -------{ bang give alok bang :V }-------- #
