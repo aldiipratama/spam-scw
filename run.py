@@ -1,5 +1,6 @@
 # Jangan Lupa Subscribe Mr_Dark :)
 # Recode Sebelum Subscribe? ANAK HARAM!!
+# Recode by aldiipratama
 # Btw ini hanya update dari script sebelum nya..
 # -------{ Di sini Gw Import Module dulu }-------- #
 import os,sys,time,requests,json,random,re
